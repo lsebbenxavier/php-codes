@@ -1,6 +1,6 @@
 # php-codes
 
-Website development and database:
+Website development and data base:
 
 - PHP Language:
 PHP (Hypertext Preprocessor) is a widely used open source scripting language, widely used, and especially suitable for web development and which can be embedded within HTML. Which allows you to enter and exit "PHP mode".
