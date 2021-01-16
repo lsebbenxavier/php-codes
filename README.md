@@ -3,12 +3,15 @@
 Website development and data base:
 
 - PHP Language:
+
 PHP (Hypertext Preprocessor) is a widely used open source scripting language, widely used, and especially suitable for web development and which can be embedded within HTML. Which allows you to enter and exit "PHP mode".
 
 - Data base:
+
 Databases or databases are sets of files related to each other with records about people, places or things. They are organized collections of data that relate to each other in order to create some meaning (Information) and make it more efficient during a research or scientific study.
 
 - Bootstrap 4: 
+
 Framework  - website and administrative layout:
 Bootstrap is nothing more than a "Front End" framework used by thousands of web developers around the world.
 
@@ -17,6 +20,7 @@ From it, many stages of web development become faster and more dynamic, as they 
 It is a free tool for HTML, CSS and JS development. Therefore, it is an open source tool for everyone.
 
 - MVC (Model-View-Controller):
+
 Development of user interfaces that divide an application into interconnected parts (layers / components).
 
 Software design standard, or software architecture standard formulated in the 1970s, focused on the reuse of code and the separation of concepts in three interconnected layers.
