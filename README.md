@@ -22,7 +22,9 @@ Development of user interfaces that divide an application into interconnected pa
 Software design standard, or software architecture standard formulated in the 1970s, focused on the reuse of code and the separation of concepts in three interconnected layers.
 
 1- Model or application logic layer (Model)
+
 2- Presentation or visualization layer (View)
+
 3- Control layer or controller (Controller)
 
 - Dashboard:
