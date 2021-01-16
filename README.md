@@ -6,7 +6,7 @@ Website development and data base:
 
 PHP (Hypertext Preprocessor) is a widely used open source scripting language, widely used, and especially suitable for web development and which can be embedded within HTML. Which allows you to enter and exit "PHP mode".
 
-- Data base:
+- Data base with php and pdo:
 
 Databases or databases are sets of files related to each other with records about people, places or things. They are organized collections of data that relate to each other in order to create some meaning (Information) and make it more efficient during a research or scientific study.
 
